@@ -9,6 +9,7 @@ System.out.println("About me");
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+tech+stack)](https://git.io/typing-svg)
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>&nbsp;
